@@ -487,7 +487,7 @@ function App() {
             <p>&copy; {new Date().getFullYear()} {siteConfig.fullName}. Tous droits réservés.</p>
             <p className="mt-2">Shake Bar & Coaching Nutrition/Sport à Nantes</p>
             <p className="mt-4 text-green-400">
-              Site créé par <a href="https://avalon-stratege.fr" target="_blank" rel="noopener noreferrer" className="hover:text-lime-300 transition-colors duration-200 underline">Avalon Stratège</a>
+              Site créé par <a href="https://www.avalon-stratege.com" target="_blank" rel="noopener noreferrer" className="hover:text-lime-300 transition-colors duration-200 underline">Avalon Stratège</a>
             </p>
           </div>
         </div>
